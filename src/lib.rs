@@ -1,8 +1,2 @@
-#[cfg(test)]
-mod tests {
-    #[test]
-    fn it_works() {
-        let result = 2 + 2;
-        assert_eq!(result, 4);
-    }
-}
+pub mod two_sum_1;
+pub mod longest_substr_no_duplicates_3;
