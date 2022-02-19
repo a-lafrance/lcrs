@@ -1,5 +1,5 @@
 use std::cmp::max;
-use std::collections::{HashMap, HashSet};
+use std::collections::HashMap;
 
 // Previously there was a solution that used slightly less memory than this one at the cost
 // of being slightly slower, but once this solution was modified to iterate straight through
